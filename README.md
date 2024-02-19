@@ -58,9 +58,10 @@
 
 <img src="https://raw.githubusercontent.com/Maharshi-Mimo/Maharshi-Mimo/output/snake.svg" alt="Snake animation" />
 
-### My Profile visits! 
+### 
 
 <div align="center">
+<p> Thanks for the visit ❤️ </p> 
   <img src="https://profile-counter.glitch.me/Maharshi-Mimo/count.svg?"  />
 </div>
 
