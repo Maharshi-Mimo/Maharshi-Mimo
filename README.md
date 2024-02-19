@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="33" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo"  />
   <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo"  /> </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="58" height="33" alt="medium logo"  />
+  <a href = "https://medium.com/@maharshi.mimo"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="58" height="33" alt="medium logo"  /> </a>
   <a href = "https://twitter.com/Mimo_Maharshi"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"  /> </a>
 </div>
 
