@@ -53,11 +53,11 @@
   <a href = "https://twitter.com/Mimo_Maharshi"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"  /> </a>
 </div>
 
-###
+### Snake Animation
 
 <img src="https://raw.githubusercontent.com/Maharshi-Mimo/Maharshi-Mimo/output/snake.svg" alt="Snake animation" />
 
-###
+### My Profile visits! 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Maharshi-Mimo/count.svg?"  />
