@@ -45,13 +45,13 @@
 ### Socials
 
 <div align="left">
+  <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo"/></a>
+  <a href = "mailto:maharshid32@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo"/></a>
+  <a href = "https://twitter.com/Mimo_Maharshi"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"/></a>
   <a href = "https://www.instagram.com/maharshi.mimo/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="33" alt="instagram logo"/></a>
   <a href = "https://dashboard.twitch.tv/u/maharshi_mimo/home"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="58" height="33" alt="twitch logo"/></a>
   <a href = "https://discord.com/channels/@me/466987988023377940"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="33" alt="discord logo"/></a>
-  <a href = "mailto:maharshid32@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo"/></a>
-  <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo"/></a>
   <a href = "https://medium.com/@maharshi.mimo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="58" height="33" alt="medium logo"/></a>
-  <a href = "https://twitter.com/Mimo_Maharshi"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo"/></a>
 </div>
 
 ### Snake Animation
