@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi 👋! My name is Maharshi Dutta and I'm a DevOps Engineer.</h2>
 
 ###
@@ -46,7 +47,6 @@
 
 <div align="left">
   <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo" title="LinkedIn"/></a>
-  <a href = "mailto:maharshid32@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo" title="Gmail"/></a>
   <a href = "https://twitter.com/Mimo_Maharshi"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo" title="Twitter / X"/></a>
   <a href = "https://www.instagram.com/maharshi.mimo/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="33" alt="instagram logo" title="Instagram"/></a>
   <a href = "https://dashboard.twitch.tv/u/maharshi_mimo/home"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="58" height="33" alt="twitch logo" title="Twitch"/></a>
@@ -54,7 +54,10 @@
   <a href = "https://medium.com/@maharshi.mimo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="58" height="33" alt="medium logo" title="Medium"/></a>
 </div>
 
-### Snake Animation
+### Contact me here:
+
+<a href = "mailto:maharshid32@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo" title="Gmail"/></a>
+
 
 <img src="https://raw.githubusercontent.com/Maharshi-Mimo/Maharshi-Mimo/output/snake.svg" alt="Snake animation"/>
 
