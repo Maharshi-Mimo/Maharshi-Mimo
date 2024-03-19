@@ -57,7 +57,7 @@
     <img width="12" />
 </div>
 
-### Socials
+### My socials...
 
 <div align="left">
   <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo" title="LinkedIn"/></a>
