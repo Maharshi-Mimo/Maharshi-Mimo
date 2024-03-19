@@ -26,8 +26,6 @@
   <img width="12" />
   <a href = "https://argo-cd.readthedocs.io/en/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo" title="ArgoCD"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" title="Azure Cloud"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
@@ -44,6 +42,14 @@
   <img width="12" />
   <a href = "https://developer.hashicorp.com/terraform?product_intent=terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" title="Terraform"/></a>
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" title="PowerShell"/>
+
+## Cloud Platforms: 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazon webservices logo"  title = "Amazon Web Services"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" title="Azure Cloud"/>
+    <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud platform" title = "Google Cloud Platform"/>
+    <img width="12" />
 </div>
 
 ### Socials
