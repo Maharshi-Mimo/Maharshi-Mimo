@@ -60,7 +60,7 @@
 ### My socials...
 
 <div align="left">
-  <a rel = "nofollow" href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo" title="LinkedIn"/></a>
+  <a rel = "nofollow" href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo" title="LinkedIn"/> LinkedIn</a>
   <a href = "https://twitter.com/Mimo_Maharshi"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="33" alt="twitter logo" title="Twitter / X"/></a>
   <a href = "https://www.instagram.com/maharshi.mimo/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="33" alt="instagram logo" title="Instagram"/></a>
   <a href = "https://dashboard.twitch.tv/u/maharshi_mimo/home"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="58" height="33" alt="twitch logo" title="Twitch"/></a>
