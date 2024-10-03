@@ -57,7 +57,9 @@
     <img width="12" />
 </div>
 
-### My socials...
+# Ways to reach me
+
+## My socials...
 
 <div align="left">
   <a href = "https://www.linkedin.com/in/maharshi-mimo-dutta/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="33" alt="linkedin logo" title="LinkedIn"/></a>
@@ -68,7 +70,7 @@
   <a href = "https://medium.com/@maharshi.mimo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="58" height="33" alt="medium logo" title="Medium"/></a>
 </div>
 
-### Contact me here:
+## Contact me here:
 
 <a href = "mailto:maharshid32@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="33" alt="gmail logo" title="Gmail"/></a>
 
