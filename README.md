@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo" title="Golang" />
+  <img width="12" />
 
 ## DevOps Tools/Platforms:
 
