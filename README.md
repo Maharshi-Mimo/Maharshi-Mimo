@@ -1,5 +1,6 @@
 
-<h2 align="center">Hi 👋! My name is Maharshi Dutta and I'm a DevOps Engineer.</h2>
+<h2 align="center">Hi 👋! </h2>
+
 
 ###
 
@@ -10,7 +11,16 @@
 
 <div align="left">
 
-# Things I am good at...
+# Table of Contents
+
+- [About Me](#about-me)
+- [Tech Stack]
+
+# About Me:
+
+I am Senior DevOps Engineer / SRE in Wipro Technologies, managing its in-house AI Platform. 
+
+# Tech Stack:
 
 ## Programming Language: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
