@@ -52,15 +52,18 @@ I am Senior DevOps Engineer / SRE in Wipro Technologies, managing its in-house A
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" title="Redis"/>
   <img width="12" />
   <a href = "https://developer.hashicorp.com/terraform?product_intent=terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" title="Terraform"/></a>
   <a href = "https://grafana.com/docs/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"/></a>
   <img width="12" />
   <a href = "https://prometheus.io/docs/introduction/overview/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo" title = "Prometheus"  /></a>
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" title="PowerShell"/>
+
+## Database & Cache
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" title="Redis"/>
 
 ## Cloud Platforms: 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazon webservices logo"  title = "Amazon Web Services"/>
