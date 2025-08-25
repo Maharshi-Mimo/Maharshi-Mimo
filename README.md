@@ -14,7 +14,13 @@
 # Table of Contents
 
 - [About Me](#about-me)
-- [Tech Stack]
+- [Tech Stack](#tech-stack)
+  - [Backend](#backend-developement)
+  - [Frontend](#frontend-developement)
+  - [DevOps Tools](#devops-tools--tech)
+  - [Database & Cache](#database--cache)
+  - [Cloud Platforms](#cloud-platforms)
+- [Socials](#my-socials)
 
 # About Me:
 
