@@ -21,6 +21,7 @@
   - [Database & Cache](#database--cache)
   - [Cloud Platforms](#cloud-platforms)
 - [Socials](#my-socials)
+- [Contacts](#contact-me-here)
 
 # About Me:
 
