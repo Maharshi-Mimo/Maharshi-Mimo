@@ -2,7 +2,6 @@
 <h2 align="center">Hi 👋! </h2>
 
 <iframe src="https://github.com/sponsors/Maharshi-Mimo/card" title="Sponsor Maharshi-Mimo" height="225" width="600" style="border: 0;"></iframe>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maharshi-Mimo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
